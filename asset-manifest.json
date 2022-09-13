@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/1-project-progra-internet/static/css/main.527baa9d.css",
+    "main.js": "/1-project-progra-internet/static/js/main.8666d7c3.js",
+    "index.html": "/1-project-progra-internet/index.html",
+    "main.527baa9d.css.map": "/1-project-progra-internet/static/css/main.527baa9d.css.map",
+    "main.8666d7c3.js.map": "/1-project-progra-internet/static/js/main.8666d7c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.527baa9d.css",
+    "static/js/main.8666d7c3.js"
+  ]
+}
